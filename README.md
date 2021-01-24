@@ -1,6 +1,6 @@
 # StringApplet to SageMath converter
 
-This modules [`converter.py`](https://github.com/haruhisa-enomoto/StringApplet-to-SageMath-converter/blob/main/converter.py) is for [SageMath](https://www.sagemath.org/), and aimed at people studying representation theory of finite-dimensional algebras. This enables us to deal with the lattice of torsion classes in SageMath very easily.
+This modules [`converter.py`](https://github.com/haruhisa-enomoto/StringApplet-to-SageMath-converter/blob/main/converter.py) is for [SageMath](https://www.sagemath.org/), and aimed at people studying representation theory of finite-dimensional algebras. This enables us to **deal with the lattice of torsion classes in SageMath** very easily.
 
 [String Applet](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/) is a very useful tool for studying algebras and module categories,
 which is a web program developed by [Jan Geuenich](https://www.math.uni-bielefeld.de/~jgeuenich/).
