@@ -13,6 +13,6 @@ from the file exported from String Applet.
 ## Author
 [Haruhisa Enomoto](http://haruhisa-enomoto.github.io/)
 
-# Manual
+## Manual
 
-See [Manual (written in Jupyter Notebook)](https://github.com/haruhisa-enomoto/StringApplet-to-SageMath-converter/blob/main/Manual.ipynb).
+See [Manual (written in Jupyter Notebook)](https://nbviewer.jupyter.org/github/haruhisa-enomoto/StringApplet-to-SageMath-converter/blob/main/Manual.ipynb).
