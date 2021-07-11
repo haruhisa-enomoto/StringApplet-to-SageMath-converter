@@ -62,6 +62,9 @@ def export(tex_path, output_path):
     r"""
     Write data to a new file.
 
+    The content of the created file is ``data = ...``,
+    where ``...`` is a data from which we can construct a poset.
+
     INPUT:
 
       - tex_path -- a path of the exported tex file (str)
