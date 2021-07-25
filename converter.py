@@ -1,3 +1,11 @@
+"""
+This program enables us to import the lattice of torsion classes in SageMath from
+Jan Geuenich's String Applet:
+https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/
+"""
+# GitHub Repository:
+# https://github.com/haruhisa-enomoto/StringApplet-to-SageMath-converter
+
 import re
 
 def SAtoSage(tex_path):
